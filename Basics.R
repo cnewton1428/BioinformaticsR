@@ -1,6 +1,4 @@
 # R Test Script
-# Carina Newton
-# October 18, 2019
 # The purpose of this script is to learn how to work in R
 
 count <- 0

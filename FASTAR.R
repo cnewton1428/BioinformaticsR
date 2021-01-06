@@ -1,5 +1,4 @@
 #Working with FASTA
-#Carina Newton
 
 library(seqinr)
 library(ape)

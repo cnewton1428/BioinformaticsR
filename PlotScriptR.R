@@ -1,6 +1,5 @@
 #My Plotting Script
 #Basic R: ggplot2
-#By Carina Newton
 
 library(ggplot2)
 library(reshape2)
